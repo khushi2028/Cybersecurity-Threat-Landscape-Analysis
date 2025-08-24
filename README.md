@@ -105,3 +105,11 @@ Develop an **analytics product** that:
 - **Policy Makers** → Build awareness, enforce regulations.  
 - **Researchers** → Understand evolving attack patterns.  
 
+---
+
+## 👤 Author  
+**Khushi Gupta**  
+📧 Email: [khushig2882@gmail.com](mailto:khushig2882@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/khushi-gupta-5892772b6/)  
+
+---
